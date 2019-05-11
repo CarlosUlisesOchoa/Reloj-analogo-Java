@@ -52,7 +52,7 @@ Un simple reloj análogo con algunos extras
 ## Imagenes del programa
 
 <p align="center">
-<img width="70%" height="70%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Reloj-Analogo-Alarma/6834f94e3d002d4eefa4caa740c320ce0f5d8e7f/dist/Images/Main.png" />
+<img width="60%" height="60%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Reloj-Analogo-Alarma/6834f94e3d002d4eefa4caa740c320ce0f5d8e7f/dist/Images/Main.png" />
 </p>
 
 <br/>
