@@ -8,30 +8,28 @@
 
 <br>
 
+<p align="center">
+<img width="60%" height="60%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Reloj-Analogo-Alarma/6834f94e3d002d4eefa4caa740c320ce0f5d8e7f/dist/Images/Main.png" />
+</p>
+
+<br/>
+
 <p align="left">
 Un pequeño reloj análogo diseñado en NetBeans con algunos extras
 </p> 
 
-<br>
+<br/><br/>
 
 ## Tabla de contenido
 
-- [Introducción](#introduccion)
-- [Características](#caracteristicas)
+- [Caracteristicas](#caracteristicas)
 - [Desarrollado con](#desarrollado-con)
-- [Funcionamiento](#imagenes-del-programa)
-- [Licencia](#licencia)
 - [Acerca del desarrollador](#acerca-del-desarrollador)
-- [Donar](#donar)
+- [Licencia](#licencia)
 
----
-<br>
 
-## Introduccion
+<br/><br/>
 
-Un simple reloj análogo con algunos extras
-
-<br>
 
 ## Caracteristicas
 
@@ -39,29 +37,13 @@ Un simple reloj análogo con algunos extras
 * Reloj digital
 * Sistema de alarma
 
-<br>
+<br/><br/>
 
 ## Desarrollado con
 
-#### NetBeans IDE
-
-* Java
+Este proyecto fue desarrollado con Java en el IDE NetBeans
 
 <br>
-
-## Imagenes del programa
-
-<p align="center">
-<img width="60%" height="60%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Reloj-Analogo-Alarma/6834f94e3d002d4eefa4caa740c320ce0f5d8e7f/dist/Images/Main.png" />
-</p>
-
-<br/>
-
-<br>
-
-## Licencia
-
-Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md).
 
 <br> <br>
 
@@ -69,3 +51,9 @@ Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md)
 
 Visita mi página web [Carlos Ochoa](https://carlos8a.com)
 
+<br><br>
+## Licencia
+
+Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md).
+
+<br/>
